@@ -1,6 +1,6 @@
 # CSE366-Artificial-Intelligence
-##Lab-1
-Pygame AI Simulation Framework
+## Lab-1
+### Pygame AI Simulation Framework
 This project creates a simple simulation with two agents that can move around the screen using the keyboard. Here's a breakdown of the main features:
 
 Window Setup: The window is 600x400 pixels, and the background color is black.
