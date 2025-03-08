@@ -1,1 +1,1 @@
-# -CSE366-Artificial-Intelligence-AI-
+# CSE366-Artificial-Intelligence
