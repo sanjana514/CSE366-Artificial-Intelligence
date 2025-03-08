@@ -7,9 +7,9 @@ pygame.init()
 
 # Constants
 WINDOW_WIDTH, WINDOW_HEIGHT = 600, 400
-BACKGROUND_COLOR = (255, 255, 255)
-AGENT_COLOR = (0, 128, 255)  # Blue
-TEXT_COLOR = (0, 0, 0)
+BACKGROUND_COLOR = (0, 0, 0)
+AGENT_COLOR = (0, 255, 255)  # Blue
+TEXT_COLOR = (255, 255, 255)
 
 # Set up display
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
